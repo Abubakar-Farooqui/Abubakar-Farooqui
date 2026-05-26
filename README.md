@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Mohammad AbuBakar Farooqui
+
+I am a passionate Microsoft certified Azure Data Engineer, turning raw data into meaningful insights, with over 10+ years of experience in IT. Currently working in the Oil & Gas sector, based in Qatar.
+
+I work with modern tech stack like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, Data Lakehouse and Microsoft Fabric to build efficient data pipelines and solutions in the cloud and backed by strong Database Adminstration expereice of MS SQL server, Oracle and PostgreSQL.
+
+Apart from continuously upskilling myself, I love spending my time with Family + the Nature and in the Gym.
 
 <!--
 **Abubakar-Farooqui/Abubakar-Farooqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
